@@ -6,9 +6,6 @@ A bitcoin wallet generator using Golang.
 
 - [Project Description](#project-description)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Description
 
