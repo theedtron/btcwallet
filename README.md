@@ -22,6 +22,7 @@ First, clone this repository to your local machine using Git:
 
 ```bash
 git clone https://github.com/your-username/your-project.git
+```
 
 ## Building the Project
 
@@ -29,11 +30,13 @@ Navigate to the project directory:
 
 ```bash
 cd your-project
+```
 
 Then, build the project using the following command:
 
 ```bash
 go build
+```
 
 This will generate an executable file in the project directory.
 
