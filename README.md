@@ -24,7 +24,7 @@ First, clone this repository to your local machine using Git:
 git clone https://github.com/your-username/your-project.git
 ```
 
-## Building the Project
+## Running the Project
 
 Navigate to the project directory:
 
