@@ -32,11 +32,8 @@ Navigate to the project directory:
 cd your-project
 ```
 
-Then, build the project using the following command:
+Then, run the project using the following command:
 
 ```bash
-go build
+go run main.go
 ```
-
-This will generate an executable file in the project directory.
-
