@@ -21,7 +21,7 @@ the [official Go website](https://golang.org/doc/install).
 First, clone this repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/theedtron/btcwallet.git
 ```
 
 ## Running the Project
