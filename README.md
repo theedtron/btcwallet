@@ -32,6 +32,12 @@ Navigate to the project directory:
 cd your-project
 ```
 
+Download necessary dependancies
+
+```bash
+go mod tidy
+```
+
 Then, run the project using the following command:
 
 ```bash
